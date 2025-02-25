@@ -74,4 +74,4 @@ python script.py
 ## Notes:
 - Ensure that the 'input' folder is correctly structured before running the scripts.
 - The order of images in the panorama stitching process should follow a sequence for better results.
-- More details about the implementation can be found in the report within the same repository.
+- More details about the implementation can be found in the [report](./report.pdf) within the same repository.
