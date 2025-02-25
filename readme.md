@@ -70,8 +70,10 @@ python script.py
 - The `output/<folder_name>/` directory also contains images showing matching keypoints between adjacent images.
 
 
-------
 ## Notes:
 - Ensure that the 'input' folder is correctly structured before running the scripts.
 - The order of images in the panorama stitching process should follow a sequence for better results.
 - More details about the implementation can be found in the [report](./report.pdf) within the same repository.
+
+## Repository
+GitHub: [VR_Assignment1_Ananthakrishna-K_IMT2022086](https://github.com/vr-assignments/VR_Assignment1_Ananthakrishna-K_IMT2022086)
