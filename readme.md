@@ -38,7 +38,6 @@ python script.py
 
 
 ## Part 2: Panorama Stitching
---------------------------
 This part stitches a sequence of images together to form a panorama.
 
 ### Implementation Steps:
@@ -71,8 +70,8 @@ python script.py
 - The `output/<folder_name>/` directory also contains images showing matching keypoints between adjacent images.
 
 
-## Notes:
 ------
+## Notes:
 - Ensure that the 'input' folder is correctly structured before running the scripts.
 - The order of images in the panorama stitching process should follow a sequence for better results.
 - More details about the implementation can be found in the report within the same repository.
